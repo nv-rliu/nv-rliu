@@ -1,6 +1,6 @@
-Hi
+hi
 
-I'm Ralph, a RAPIDSai developer
+im ralph, a RAPIDSai developer
 
 <!---
 nv-rliu/nv-rliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
