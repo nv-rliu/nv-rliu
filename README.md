@@ -1,6 +1,6 @@
-hi
+Hi,
 
-im ralph, a RAPIDSai developer
+I'm Ralph, a cuGraph developer!
 
 <!---
 nv-rliu/nv-rliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
