@@ -4,7 +4,7 @@ i am a developer for NVIDIA RAPIDS
 
 when im not coding, i love playing badminton and petting cats
 
-![cat][./cat.jpg]
+![cat](./cat.jpg)
 
 <!---
 TODO: spice things up !
