@@ -5,6 +5,7 @@ i am a developer for NVIDIA RAPIDS
 when im not coding, i love playing badminton and petting cats
 
 ![cat](./cat.jpg)
+<img src="./cat.jpg" width="400" height="300">
 
 <!---
 TODO: spice things up !
