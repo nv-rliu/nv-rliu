@@ -1,7 +1,6 @@
-Hi,
+hi there im ralph
 
-I'm Ralph, a cuGraph developer
-
+i am a developer for NVIDIA RAPIDS
 
 <!---
 nv-rliu/nv-rliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
