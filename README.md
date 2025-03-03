@@ -1,11 +1,10 @@
-hi there im ralph
+Hi there! I'm Ralph
 
-i am a developer for NVIDIA RAPIDS
+I work on [NVIDIA RAPIDS](https://github.com/rapidsai), specifically [cuGraph](https://github.com/rapidsai/cugraph) and [nx-cugraph](https://github.com/rapidsai/nx-cugraph).
 
-when im not coding, i love playing badminton and petting cats
+When I'm not coding, I love playing badminton and petting cats.
 
-![cat](./cat.jpg)
-<img src="./cat.jpg" width="400" height="300">
+<img src="./cat.jpg" width="300">
 
 <!---
 TODO: spice things up !
